@@ -1,4 +1,4 @@
-name: pycon2019
+name: nlp-hackathon
 channels:
   - conda-forge
 dependencies:
